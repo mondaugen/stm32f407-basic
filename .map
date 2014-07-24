@@ -1,0 +1,833 @@
+Archive member included because of file (symbol)
+
+./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                              Src/main.o (HAL_Init)
+./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                              Src/main.o (HAL_NVIC_SetPriorityGrouping)
+./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+                              Src/main.o (HAL_RCC_OscConfig)
+./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o) (HAL_GPIO_Init)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (exit)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (__libc_init_array)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o (memset)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+ .data          0x00000000        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+ .text          0x00000000       0x74 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .ARM.attributes
+                0x00000000       0x20 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+ .text          0x00000000       0x14 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .data          0x00000000        0x0 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .bss           0x00000000        0x0 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .bss           0x00000000        0x0 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .data          0x00000000        0x0 Src/main.o
+ .bss           0x00000000        0x0 Src/main.o
+ .text          0x00000000        0x0 Src/stm32f4xx_hal_msp.o
+ .data          0x00000000        0x0 Src/stm32f4xx_hal_msp.o
+ .bss           0x00000000        0x0 Src/stm32f4xx_hal_msp.o
+ .debug_info    0x00000000       0x92 Src/stm32f4xx_hal_msp.o
+ .debug_abbrev  0x00000000       0x4b Src/stm32f4xx_hal_msp.o
+ .debug_aranges
+                0x00000000       0x18 Src/stm32f4xx_hal_msp.o
+ .debug_line    0x00000000      0x10b Src/stm32f4xx_hal_msp.o
+ .debug_str     0x00000000      0x1a9 Src/stm32f4xx_hal_msp.o
+ .comment       0x00000000       0x71 Src/stm32f4xx_hal_msp.o
+ .ARM.attributes
+                0x00000000       0x37 Src/stm32f4xx_hal_msp.o
+ .data          0x00000000        0x0 Src/stm32f4xx_it.o
+ .bss           0x00000000        0x0 Src/stm32f4xx_it.o
+ .data          0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .data          0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .bss           0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .data          0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .bss           0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .data          0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+ .bss           0x00000000        0x0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+ .eh_frame      0x00000000        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+ .jcr           0x00000000        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+ .ARM.attributes
+                0x00000000       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+ .text          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+ .data          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+ .bss           0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00020000         xrw
+CCMRAM           0x10000000         0x00010000         rw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+LOAD Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+LOAD Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+LOAD Src/main.o
+LOAD Src/stm32f4xx_hal_msp.o
+LOAD Src/stm32f4xx_it.o
+LOAD ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libm.a
+START GROUP
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/libgcc.a
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a
+END GROUP
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtend.o
+LOAD /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+                0x2001ffff                _estack = 0x2001ffff
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188     0x1370
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x54 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+ .text          0x080001dc      0x164 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+                0x080001dc                SystemInit
+                0x08000248                SystemCoreClockUpdate
+ .text          0x08000340       0x68 Src/main.o
+                0x08000340                main
+                0x08000360                SystemClock_Config
+ .text          0x080003a8       0x10 Src/stm32f4xx_it.o
+                0x080003a8                SysTick_Handler
+ .text          0x080003b8      0x184 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                0x080003b8                HAL_MspInit
+                0x080003bc                HAL_MspDeInit
+                0x080003c0                HAL_DeInit
+                0x080003ec                HAL_InitTick
+                0x08000414                HAL_Init
+                0x08000448                HAL_IncTick
+                0x08000458                HAL_GetTick
+                0x08000464                HAL_Delay
+                0x08000480                HAL_SuspendTick
+                0x08000490                HAL_ResumeTick
+                0x080004a0                HAL_GetHalVersion
+                0x080004a8                HAL_GetREVID
+                0x080004b4                HAL_GetDEVID
+                0x080004c4                HAL_EnableDBGSleepMode
+                0x080004d4                HAL_DisableDBGSleepMode
+                0x080004e4                HAL_EnableDBGStopMode
+                0x080004f4                HAL_DisableDBGStopMode
+                0x08000504                HAL_EnableDBGStandbyMode
+                0x08000514                HAL_DisableDBGStandbyMode
+                0x08000524                HAL_EnableCompensationCell
+                0x08000530                HAL_DisableCompensationCell
+ .text          0x0800053c      0x234 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                0x0800053c                HAL_NVIC_SetPriorityGrouping
+                0x08000560                HAL_NVIC_SetPriority
+                0x080005d0                HAL_NVIC_EnableIRQ
+                0x080005e8                HAL_NVIC_DisableIRQ
+                0x08000604                HAL_NVIC_SystemReset
+                0x08000624                HAL_SYSTICK_Config
+                0x0800065c                HAL_NVIC_GetPriorityGrouping
+                0x0800066c                HAL_NVIC_GetPriority
+                0x080006cc                HAL_NVIC_SetPendingIRQ
+                0x080006e8                HAL_NVIC_GetPendingIRQ
+                0x0800070c                HAL_NVIC_ClearPendingIRQ
+                0x08000728                HAL_NVIC_GetActive
+                0x0800074c                HAL_SYSTICK_CLKSourceConfig
+                0x08000764                HAL_SYSTICK_Callback
+                0x08000768                HAL_SYSTICK_IRQHandler
+ .text          0x08000770      0x894 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+                0x08000770                HAL_RCC_DeInit
+                0x080007bc                HAL_RCC_OscConfig
+                0x08000b24                HAL_RCC_ClockConfig
+                0x08000cdc                HAL_RCC_MCOConfig
+                0x08000d64                HAL_RCC_EnableCSS
+                0x08000d70                HAL_RCC_DisableCSS
+                0x08000d7c                HAL_RCC_GetSysClockFreq
+                0x08000e18                HAL_RCC_GetHCLKFreq
+                0x08000e50                HAL_RCC_GetPCLK1Freq
+                0x08000e80                HAL_RCC_GetPCLK2Freq
+                0x08000eb0                HAL_RCC_GetOscConfig
+                0x08000f9c                HAL_RCC_GetClockConfig
+                0x08000fe0                HAL_RCC_CCSCallback
+                0x08000fe4                HAL_RCC_NMI_IRQHandler
+ .text          0x08001004      0x338 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+                0x08001004                HAL_GPIO_Init
+                0x0800121c                HAL_GPIO_DeInit
+                0x080012d4                HAL_GPIO_ReadPin
+                0x080012e0                HAL_GPIO_WritePin
+                0x080012ec                HAL_GPIO_TogglePin
+                0x080012f4                HAL_GPIO_LockPin
+                0x08001320                HAL_GPIO_EXTI_Callback
+                0x08001324                HAL_GPIO_EXTI_IRQHandler
+ *(.text*)
+ .text.Reset_Handler
+                0x0800133c       0x58 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+                0x0800133c                Reset_Handler
+ .text.Default_Handler
+                0x08001394        0x4 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+                0x08001394                RTC_Alarm_IRQHandler
+                0x08001394                HASH_RNG_IRQHandler
+                0x08001394                EXTI2_IRQHandler
+                0x08001394                TIM8_CC_IRQHandler
+                0x08001394                DebugMon_Handler
+                0x08001394                TIM1_CC_IRQHandler
+                0x08001394                DMA2_Stream5_IRQHandler
+                0x08001394                HardFault_Handler
+                0x08001394                DMA1_Stream5_IRQHandler
+                0x08001394                PVD_IRQHandler
+                0x08001394                SDIO_IRQHandler
+                0x08001394                TAMP_STAMP_IRQHandler
+                0x08001394                PendSV_Handler
+                0x08001394                NMI_Handler
+                0x08001394                CAN2_RX1_IRQHandler
+                0x08001394                EXTI3_IRQHandler
+                0x08001394                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08001394                TIM1_UP_TIM10_IRQHandler
+                0x08001394                TIM8_UP_TIM13_IRQHandler
+                0x08001394                I2C3_ER_IRQHandler
+                0x08001394                EXTI0_IRQHandler
+                0x08001394                I2C2_EV_IRQHandler
+                0x08001394                DMA1_Stream2_IRQHandler
+                0x08001394                CAN1_RX0_IRQHandler
+                0x08001394                FPU_IRQHandler
+                0x08001394                OTG_HS_WKUP_IRQHandler
+                0x08001394                UsageFault_Handler
+                0x08001394                CAN2_SCE_IRQHandler
+                0x08001394                DMA2_Stream2_IRQHandler
+                0x08001394                SPI1_IRQHandler
+                0x08001394                TIM6_DAC_IRQHandler
+                0x08001394                TIM1_BRK_TIM9_IRQHandler
+                0x08001394                DCMI_IRQHandler
+                0x08001394                CAN2_RX0_IRQHandler
+                0x08001394                DMA2_Stream3_IRQHandler
+                0x08001394                USART6_IRQHandler
+                0x08001394                USART3_IRQHandler
+                0x08001394                CAN1_RX1_IRQHandler
+                0x08001394                UART5_IRQHandler
+                0x08001394                DMA2_Stream0_IRQHandler
+                0x08001394                TIM4_IRQHandler
+                0x08001394                I2C1_EV_IRQHandler
+                0x08001394                DMA1_Stream6_IRQHandler
+                0x08001394                DMA1_Stream1_IRQHandler
+                0x08001394                UART4_IRQHandler
+                0x08001394                TIM3_IRQHandler
+                0x08001394                RCC_IRQHandler
+                0x08001394                TIM8_BRK_TIM12_IRQHandler
+                0x08001394                Default_Handler
+                0x08001394                EXTI15_10_IRQHandler
+                0x08001394                ADC_IRQHandler
+                0x08001394                DMA1_Stream7_IRQHandler
+                0x08001394                TIM7_IRQHandler
+                0x08001394                CAN2_TX_IRQHandler
+                0x08001394                TIM5_IRQHandler
+                0x08001394                DMA2_Stream7_IRQHandler
+                0x08001394                I2C3_EV_IRQHandler
+                0x08001394                EXTI9_5_IRQHandler
+                0x08001394                RTC_WKUP_IRQHandler
+                0x08001394                ETH_WKUP_IRQHandler
+                0x08001394                SPI2_IRQHandler
+                0x08001394                OTG_HS_EP1_IN_IRQHandler
+                0x08001394                MemManage_Handler
+                0x08001394                DMA1_Stream0_IRQHandler
+                0x08001394                CAN1_TX_IRQHandler
+                0x08001394                SVC_Handler
+                0x08001394                EXTI4_IRQHandler
+                0x08001394                FSMC_IRQHandler
+                0x08001394                ETH_IRQHandler
+                0x08001394                OTG_HS_EP1_OUT_IRQHandler
+                0x08001394                WWDG_IRQHandler
+                0x08001394                TIM2_IRQHandler
+                0x08001394                OTG_FS_WKUP_IRQHandler
+                0x08001394                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001394                OTG_HS_IRQHandler
+                0x08001394                EXTI1_IRQHandler
+                0x08001394                USART2_IRQHandler
+                0x08001394                I2C2_ER_IRQHandler
+                0x08001394                DMA2_Stream1_IRQHandler
+                0x08001394                CAN1_SCE_IRQHandler
+                0x08001394                FLASH_IRQHandler
+                0x08001394                DMA2_Stream4_IRQHandler
+                0x08001394                BusFault_Handler
+                0x08001394                USART1_IRQHandler
+                0x08001394                OTG_FS_IRQHandler
+                0x08001394                SPI3_IRQHandler
+                0x08001394                DMA1_Stream4_IRQHandler
+                0x08001394                I2C1_ER_IRQHandler
+                0x08001394                DMA2_Stream6_IRQHandler
+                0x08001394                DMA1_Stream3_IRQHandler
+ .text.__libc_init_array
+                0x08001398       0x50 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+                0x08001398                __libc_init_array
+ .text.startup.register_fini
+                0x080013e8       0x14 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x080013fc        0xc /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+                0x080013fc                atexit
+ .text.__libc_fini_array
+                0x08001408       0x30 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+                0x08001408                __libc_fini_array
+ .text.__register_exitproc
+                0x08001438       0xa8 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+                0x08001438                __register_exitproc
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080014e0        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+ *(.init)
+ .init          0x080014e0        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+                0x080014e0                _init
+ .init          0x080014e4        0x8 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+ *(.fini)
+ .fini          0x080014ec        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+                0x080014ec                _fini
+ .fini          0x080014f0        0x8 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+                0x080014f8                . = ALIGN (0x4)
+                0x080014f8                _etext = .
+
+.vfp11_veneer   0x080014f8        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080014f8        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080014f8        0x0
+ .iplt          0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+
+.rodata         0x080014f8       0x18
+                0x080014f8                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x080014f8       0x10 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+                0x080014f8                APBAHBPrescTable
+ *(.rodata*)
+ .rodata.str1.4
+                0x08001508        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0800150c        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+                0x0800150c                _global_impure_ptr
+                0x08001510                . = ALIGN (0x4)
+
+.rel.dyn        0x08001510        0x0
+ .rel.iplt      0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001510        0x0
+                0x08001510                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001510                __exidx_end = .
+
+.preinit_array  0x08001510        0x0
+                0x08001510                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08001510                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08001510        0x8
+                0x08001510                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08001510        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08001514        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+                0x08001518                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08001518        0x4
+                0x08001518                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08001518        0x4 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+                0x0800151c                PROVIDE (__fini_array_end, .)
+                0x0800151c                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x440 load address 0x0800151c
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x14 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+                0x20000000                SystemCoreClock
+                0x20000004                AHBPrescTable
+ *(.data*)
+ *fill*         0x20000014        0x4 
+ .data.impure_data
+                0x20000018      0x428 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+                0x20000440                . = ALIGN (0x4)
+                0x20000440                _edata = .
+                0x0800195c                _siccmram = LOADADDR (.ccmram)
+
+.jcr            0x20000440        0x0 load address 0x0800195c
+ .jcr           0x20000440        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+
+.igot.plt       0x20000440        0x0 load address 0x0800195c
+ .igot.plt      0x00000000        0x0 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+
+.ccmram         0x10000000        0x0 load address 0x0800195c
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _eccmram = .
+                0x10000000                . = ALIGN (0x4)
+
+.bss            0x20000440       0x20
+                0x20000440                _sbss = .
+                0x20000440                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000440       0x1c /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+ .bss           0x2000045c        0x4 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ *(.bss*)
+ *(COMMON)
+                0x20000460                . = ALIGN (0x4)
+                0x20000460                _ebss = .
+                0x20000460                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000460      0x400
+                0x20000460                . = ALIGN (0x4)
+                0x20000460                PROVIDE (end, .)
+                0x20000460                PROVIDE (_end, .)
+                0x20000460                . = (. + _Min_Heap_Size)
+                0x20000860                . = (. + _Min_Stack_Size)
+ *fill*         0x20000460      0x400 
+                0x20000860                . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x2e
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x22 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+ .ARM.attributes
+                0x00000022       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+ .ARM.attributes
+                0x00000054       0x21 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .ARM.attributes
+                0x00000075       0x37 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .ARM.attributes
+                0x000000ac       0x37 Src/main.o
+ .ARM.attributes
+                0x000000e3       0x37 Src/stm32f4xx_it.o
+ .ARM.attributes
+                0x0000011a       0x37 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .ARM.attributes
+                0x00000151       0x37 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .ARM.attributes
+                0x00000188       0x37 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .ARM.attributes
+                0x000001bf       0x37 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+ .ARM.attributes
+                0x000001f6       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000228       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000025a       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000028c       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000002be       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000002f0       0x32 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000322       0x22 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtn.o
+OUTPUT(main.elf elf32-littlearm)
+
+.debug_line     0x00000000     0x135b
+ .debug_line    0x00000000       0xac Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .debug_line    0x000000ac      0x1c2 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .debug_line    0x0000026e      0x1b1 Src/main.o
+ .debug_line    0x0000041f      0x133 Src/stm32f4xx_it.o
+ .debug_line    0x00000552      0x263 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .debug_line    0x000007b5      0x2ca ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_line    0x00000a7f      0x5d2 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .debug_line    0x00001051      0x30a ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+
+.debug_info     0x00000000     0x37ff
+ .debug_info    0x00000000       0xa6 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .debug_info    0x000000a6      0x49e Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .debug_info    0x00000544      0x5d2 Src/main.o
+ .debug_info    0x00000b16       0xab Src/stm32f4xx_it.o
+ .debug_info    0x00000bc1      0x89e ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .debug_info    0x0000145f      0xcd0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_info    0x0000212f      0xfe6 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .debug_info    0x00003115      0x6ea ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+
+.debug_abbrev   0x00000000      0xc0e
+ .debug_abbrev  0x00000000       0x12 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .debug_abbrev  0x00000012      0x101 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .debug_abbrev  0x00000113      0x11d Src/main.o
+ .debug_abbrev  0x00000230       0x67 Src/stm32f4xx_it.o
+ .debug_abbrev  0x00000297      0x1f4 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .debug_abbrev  0x0000048b      0x2c1 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_abbrev  0x0000074c      0x2f4 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .debug_abbrev  0x00000a40      0x1ce ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+
+.debug_aranges  0x00000000      0x108
+ .debug_aranges
+                0x00000000       0x28 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .debug_aranges
+                0x00000028       0x20 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .debug_aranges
+                0x00000048       0x20 Src/main.o
+ .debug_aranges
+                0x00000068       0x20 Src/stm32f4xx_it.o
+ .debug_aranges
+                0x00000088       0x20 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .debug_aranges
+                0x000000a8       0x20 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_aranges
+                0x000000c8       0x20 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .debug_aranges
+                0x000000e8       0x20 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+
+.debug_ranges   0x00000000      0x150
+ .debug_ranges  0x00000000       0x20 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ .debug_ranges  0x00000020       0xb8 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_ranges  0x000000d8       0x78 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+
+.debug_str      0x00000000     0x12bf
+ .debug_str     0x00000000      0x348 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+                                0x3a8 (size before relaxing)
+ .debug_str     0x00000348      0x5c8 Src/main.o
+                                0x87b (size before relaxing)
+ .debug_str     0x00000910       0x23 Src/stm32f4xx_it.o
+                                0x1b4 (size before relaxing)
+ .debug_str     0x00000933      0x3b0 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                0xa7c (size before relaxing)
+ .debug_str     0x00000ce3      0x22b ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                                0xae6 (size before relaxing)
+ .debug_str     0x00000f0e      0x26b ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+                                0x6d7 (size before relaxing)
+ .debug_str     0x00001179      0x146 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+                                0x4e4 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 Src/main.o
+ .comment       0x00000000       0x71 Src/stm32f4xx_it.o
+ .comment       0x00000000       0x71 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .comment       0x00000000       0x71 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .comment       0x00000000       0x71 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .comment       0x00000000       0x71 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+
+.debug_frame    0x00000000      0x670
+ .debug_frame   0x00000000       0x44 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+ .debug_frame   0x00000044       0x4c Src/main.o
+ .debug_frame   0x00000090       0x2c Src/stm32f4xx_it.o
+ .debug_frame   0x000000bc      0x184 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .debug_frame   0x00000240      0x124 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_frame   0x00000364      0x158 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .debug_frame   0x000004bc       0xc4 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+ .debug_frame   0x00000580       0x2c /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+ .debug_frame   0x000005ac       0x48 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000005f4       0x20 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000614       0x2c /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000640       0x30 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+
+.debug_loc      0x00000000     0x12d6
+ .debug_loc     0x00000000       0x6a ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+ .debug_loc     0x0000006a      0x582 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+ .debug_loc     0x000005ec      0x8bc ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+ .debug_loc     0x00000ea8      0x42e ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+AHBPrescTable                                     Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+APBAHBPrescTable                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+BusFault_Handler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN1_RX0_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN1_RX1_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN1_SCE_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN1_TX_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN2_RX0_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN2_RX1_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN2_SCE_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+CAN2_TX_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DCMI_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream0_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream1_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream2_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream3_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream4_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream5_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream6_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA1_Stream7_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream0_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream1_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream2_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream3_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream4_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream5_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream6_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DMA2_Stream7_IRQHandler                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+DebugMon_Handler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+Default_Handler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ETH_IRQHandler                                    Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+ETH_WKUP_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI0_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI15_10_IRQHandler                              Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI1_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI2_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI3_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI4_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+EXTI9_5_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+FLASH_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+FPU_IRQHandler                                    Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+FSMC_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+HAL_DeInit                                        ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_Delay                                         ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_DisableCompensationCell                       ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_DisableDBGSleepMode                           ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_DisableDBGStandbyMode                         ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_DisableDBGStopMode                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_EnableCompensationCell                        ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_EnableDBGSleepMode                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_EnableDBGStandbyMode                          ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_EnableDBGStopMode                             ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_GPIO_DeInit                                   ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GPIO_EXTI_Callback                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GPIO_EXTI_IRQHandler                          ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GPIO_Init                                     ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_GPIO_LockPin                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GPIO_ReadPin                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GPIO_TogglePin                                ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GPIO_WritePin                                 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_gpio.o)
+HAL_GetDEVID                                      ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_GetHalVersion                                 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_GetREVID                                      ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_GetTick                                       ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_IncTick                                       ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                                  Src/stm32f4xx_it.o
+HAL_Init                                          ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                                  Src/main.o
+HAL_InitTick                                      ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_MspDeInit                                     ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_MspInit                                       ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_NVIC_ClearPendingIRQ                          ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_DisableIRQ                               ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_EnableIRQ                                ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_GetActive                                ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_GetPendingIRQ                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_GetPriority                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_GetPriorityGrouping                      ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_SetPendingIRQ                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_NVIC_SetPriority                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                                  Src/main.o
+HAL_NVIC_SetPriorityGrouping                      ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+                                                  Src/main.o
+HAL_NVIC_SystemReset                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_RCC_CCSCallback                               ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_ClockConfig                               ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_DeInit                                    ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_DisableCSS                                ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_EnableCSS                                 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_GetClockConfig                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_GetHCLKFreq                               ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_RCC_GetOscConfig                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_GetPCLK1Freq                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_GetPCLK2Freq                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_GetSysClockFreq                           ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_MCOConfig                                 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_NMI_IRQHandler                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+HAL_RCC_OscConfig                                 ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+                                                  Src/main.o
+HAL_ResumeTick                                    ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_SYSTICK_CLKSourceConfig                       ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_SYSTICK_Callback                              ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+HAL_SYSTICK_Config                                ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HAL_SYSTICK_IRQHandler                            ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_cortex.o)
+                                                  Src/stm32f4xx_it.o
+HAL_SuspendTick                                   ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal.o)
+HASH_RNG_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+HardFault_Handler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+I2C1_ER_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+I2C1_EV_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+I2C2_ER_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+I2C2_EV_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+I2C3_ER_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+I2C3_EV_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+MemManage_Handler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+NMI_Handler                                       Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+OTG_FS_IRQHandler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+OTG_FS_WKUP_IRQHandler                            Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+OTG_HS_EP1_IN_IRQHandler                          Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+OTG_HS_EP1_OUT_IRQHandler                         Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+OTG_HS_IRQHandler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+OTG_HS_WKUP_IRQHandler                            Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+PVD_IRQHandler                                    Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+PendSV_Handler                                    Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+RCC_IRQHandler                                    Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+RTC_Alarm_IRQHandler                              Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+RTC_WKUP_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+Reset_Handler                                     Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SDIO_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SPI1_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SPI2_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SPI3_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SVC_Handler                                       Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SysTick_Handler                                   Src/stm32f4xx_it.o
+                                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+SystemClock_Config                                Src/main.o
+SystemCoreClock                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+                                                  ./Drivers//STM32F4xx_HAL_Driver/libstm32fw.a(stm32f4xx_hal_rcc.o)
+SystemCoreClockUpdate                             Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+SystemInit                                        Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/system_stm32f4xx.o
+                                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TAMP_STAMP_IRQHandler                             Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM1_BRK_TIM9_IRQHandler                          Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM1_CC_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM1_TRG_COM_TIM11_IRQHandler                     Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM1_UP_TIM10_IRQHandler                          Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM2_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM3_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM4_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM5_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM6_DAC_IRQHandler                               Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM7_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM8_BRK_TIM12_IRQHandler                         Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM8_CC_IRQHandler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM8_TRG_COM_TIM14_IRQHandler                     Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+TIM8_UP_TIM13_IRQHandler                          Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+UART4_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+UART5_IRQHandler                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+USART1_IRQHandler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+USART2_IRQHandler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+USART3_IRQHandler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+USART6_IRQHandler                                 Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+UsageFault_Handler                                Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+WWDG_IRQHandler                                   Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_Jv_RegisterClasses                               /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+__bss_end__                                       /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+__bss_start__                                     /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+__call_exitprocs                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+__deregister_frame_info                           /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+__dso_handle                                      /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+__fini_array_end                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+__fini_array_start                                /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+__init_array_end                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+__init_array_start                                /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+__libc_fini                                       /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+__libc_fini_array                                 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+__libc_init_array                                 /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+                                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+__preinit_array_end                               /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+__preinit_array_start                             /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+__register_exitproc                               /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+__register_frame_info                             /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crtbegin.o
+__stack                                           /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+_ebss                                             Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_edata                                            Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_estack                                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_exit                                             /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+_fini                                             /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-fini.o)
+_global_impure_ptr                                /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+_impure_ptr                                       /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-impure.o)
+_init                                             /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7e-m/softfp/crti.o
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-init.o)
+_mainCRTStartup                                   /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+_sbss                                             Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_sdata                                            Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_sidata                                           Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+_start                                            /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+atexit                                            /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+exit                                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-exit.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+free                                              /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__call_atexit.o)
+g_pfnVectors                                      Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+hardware_init_hook                                /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+main                                              Src/main.o
+                                                  Drivers/CMSIS/Device/ST/STM32F4xx//Source/Templates/gcc/startup_stm32f407xx.o
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+malloc                                            /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-__atexit.o)
+memset                                            /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/libc.a(lib_a-memset.o)
+                                                  /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
+software_init_hook                                /home/sandman/Documents/build/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7e-m/softfp/crt0.o
